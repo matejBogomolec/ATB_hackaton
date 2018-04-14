@@ -1,0 +1,22 @@
+{
+  "name": "atb_hackaton",
+  "version": "1.0.0",
+  "description": "Solution repository of the team smartDev for Around The Block 2018. hackathon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matejBogomolec/ATB_hackaton.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matejBogomolec/ATB_hackaton/issues"
+  },
+  "homepage": "https://github.com/matejBogomolec/ATB_hackaton#readme",
+  "dependencies": {
+    "web3": "github:ethereum/web3.js"
+  }
+}
